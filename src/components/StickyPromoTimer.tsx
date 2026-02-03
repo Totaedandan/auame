@@ -78,7 +78,7 @@ export const StickyPromoTimer: FC<StickyPromoTimerProps> = ({ onClickBook }) => 
               {formattedTime}
             </div>
             <div className="mt-1 text-[10px] sm:text-[11px] text-rose-400">
-              первые записи по <span className="font-semibold text-rose-600">5 000 ₸</span>
+              первые записи по <span className="font-semibold text-rose-600">7 000 ₸</span>
             </div>
           </div>
 
